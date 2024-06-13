@@ -1,0 +1,11 @@
+#search::placeholder {
+    opacity: 0.5;
+    color: white;
+}
+
+#search:focus { 
+    outline: none !important;
+    border-color: #198754;
+    box-shadow: 0 0 8px #198754;
+ }
+
